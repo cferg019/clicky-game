@@ -1,0 +1,50 @@
+[
+    {
+        "name": "abed",
+        "img": "abed.png"
+    },
+    {
+        "name": "annie",
+        "img": "annie.jpg"
+    },
+    {
+        "name": "britta",
+        "img": "britta.jpg"
+    },
+    {
+        "name": "chang",
+        "img": "chang.jpg"
+    },
+    {
+        "name": "dean",
+        "img": "dean.png"
+    },
+    {
+        "name": "garrett",
+        "img": "garrett.png"
+    },
+    {
+        "name": "jeff",
+        "img": "jeff.jpg"
+    },
+    {
+        "name": "leonard",
+        "img": "leonard.jpg"
+    },
+    {
+        "name": "pierce",
+        "img": "pierce.jpg"
+    },
+    {
+        "name": "shirley",
+        "img": "shirley.jpg"
+    },
+    {
+        "name": "starburns",
+        "img": "starburns.png"
+    },
+    {
+        "name": "troy",
+        "img": "troy.jpg"
+    }
+]
