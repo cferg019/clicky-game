@@ -1,0 +1,13 @@
+.navbar {
+    background-color: white;
+    color: darkblue;
+}
+
+a.navbar-brand {
+    font-weight: bold;
+    color: darkblue;
+}
+
+span.nav-item {
+    font-size: 18px;
+}

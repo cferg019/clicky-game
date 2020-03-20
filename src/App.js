@@ -7,7 +7,7 @@ import Game from './components/Game'
 
 class App extends Component {
   state = {
-    titleMessage: 'Click an image to begin',
+    titleMessage: 'Click an image to begin.',
     score: 0,
     topScore: 0,
     characters,
