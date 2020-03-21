@@ -8,7 +8,7 @@ function Game({ characters, handleCharacterClick }) {
                 {characters.map(character =>
                     (<div className="col-md-3">
                         <div class="card">
-                            <img onClick={() => handleCharacterClick(character)} class="card-img-top" src={`clicky-game/images/${character.img}`} alt={character.name} />
+                            <img onClick={() => handleCharacterClick(character)} class="card-img-top" src={`images/${character.img}`} alt={character.name} />
                         </div>
                     </div>)
                 )}
